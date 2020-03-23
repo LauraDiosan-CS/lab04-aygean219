@@ -24,6 +24,9 @@
     <ClInclude Include="teste.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="service.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="magazin.cpp">
@@ -36,6 +39,9 @@
       <Filter>Resource Files</Filter>
     </ClCompile>
     <ClCompile Include="teste.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
